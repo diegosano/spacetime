@@ -1,5 +1,4 @@
 import Image from 'next/image'
-import { User } from 'lucide-react'
 
 import nlwLogo from '../assets/nlw-spacetime-logo.svg'
 
